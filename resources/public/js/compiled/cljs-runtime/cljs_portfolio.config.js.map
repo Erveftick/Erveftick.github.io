@@ -1,0 +1,1 @@
+{"version":3,"sources":["cljs_portfolio/config.cljs"],"mappings":";AAEA,AAAKA,qCACMC","names":["cljs-portfolio.config/debug?","js/goog.DEBUG"],"sourcesContent":["(ns cljs-portfolio.config)\n\n(def debug?\n  ^boolean goog.DEBUG)\n"]}
