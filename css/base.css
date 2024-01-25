@@ -49,12 +49,7 @@ a:hover {
 
 h1 {
 	font-size: 2em;
-	mix-blend-mode: difference;
 	margin: 0.67em 0;
-}
-
-p {
-	mix-blend-mode: difference;
 }
 
 abbr[title] {
@@ -282,7 +277,6 @@ a {
 	color: var(--color-link);
 	outline: none;
 	transition: color 0.2s;
-	mix-blend-mode: difference;
 }
 
 a:hover,
@@ -557,7 +551,7 @@ main {
 	word-spacing: 0.25rem;
 	text-transform: uppercase;
 	text-align: right;
-	z-index: 199;
+	z-index: 99;
 	position: inherit;
 	justify-content: start;
 }

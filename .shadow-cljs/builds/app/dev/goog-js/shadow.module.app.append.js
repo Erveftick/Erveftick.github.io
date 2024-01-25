@@ -1,1 +1,0 @@
-["^ ","~:resource-id",["~:shadow.build.modules/append","~:app"],"~:source","\ntry { cljs_portfolio.core.init(); } catch (e) { console.error(\"An error occurred when calling (cljs-portfolio.core/init)\"); throw(e); }","~:js","\ntry { cljs_portfolio.core.init(); } catch (e) { console.error(\"An error occurred when calling (cljs-portfolio.core/init)\"); throw(e); }"]
